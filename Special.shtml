@@ -1,0 +1,76 @@
+<html>
+	<head>
+        
+        
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+        
+       
+        
+	<base href="http://danu6.it.nuigalway.ie/legohego/" target="_self">
+		<title>
+			We are fashion
+		</title>
+        <style>
+          table, th, td {
+                        border: 1px solid black;
+                        }
+           
+            th{ font-size: 25px;
+                    font-weight: bold;
+            }
+            td {font-size: 14px;
+                font-weight: bold;
+                 color: red;}
+            
+        </style>
+	</head>
+	<body>
+			
+        <div class="header">
+					<!--#include file="header.html" -->
+        </div>
+		
+         <div class = "nav">
+      
+			
+				<!--#include file="nav.html" -->
+				
+        </div>
+        
+            <aside>
+            <!--#include file="aside.html" -->
+            </aside>
+                <section>
+                   <table>
+                       <tr>
+                           <th colspan="3"><span class = "title"> Special Offers</span></th>
+                       </tr>
+						<tr>
+							<td><img src="images/special1.jpg"style="width:240px;height:360px;" alt="Black out" ></td>
+							<td><img src="images/special2.jpg"style="width:240px;height:360px;" alt="Black out" ></td>
+							<td><img src="images/special3.jpg"style="width:240px;height:360px;" alt="Black out" ></td>
+						</tr>
+						<tr>
+							<td width="100">Cold Blue, This cold blue is smart and casual at same time, Euro 300</td>
+							<td width="100">Navi Fresh, This outfit is perfect for day at the races, Euro 250</td>
+							<td width="100">New Blue, night out this is the suit for u, Euro 200</td>
+						</tr>
+						<tr>
+							<td><img src="images/special4.jpg"style="width:240px;height:360px;" alt="Black out" ></td>
+							<td><img src="images/special5.jpg"style="width:240px;height:360px;" alt="Black out" ></td>
+							<td><img src="images/special6.jpg"style="width:240px;height:360px;" alt="Black out" ></td>
+						</tr>
+						<tr>
+							<td width="100">School Blazer, New Back to Classic School Look, Euro 100</td>
+							<td width="100">Red Relaxed, This causual Red Blazer all the rage, Euro 90</td>
+							<td width="100">Blood Blazer, Daring Red Blazer, Euro 70</td>
+						</tr>
+						</table>
+					
+                </section>
+       
+        <div class ="footer">
+        <!--#include file="footer.html" -->
+        </div>
+	</body>
+</html>

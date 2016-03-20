@@ -1,0 +1,56 @@
+<html>
+	<head>
+    <link rel="stylesheet" type="text/css" href="mystyle.css">
+	<base href="http://danu6.it.nuigalway.ie/legohego/" target="_self">
+		<title>
+			We are fashion
+		</title>
+        <style>
+          
+        </style>
+	</head>
+	<body>
+			
+        <div class="header">
+					<!--#include file="header.html" -->
+        </div>
+		
+         <div class = "nav">
+      
+			
+				<!--#include file="nav.html" -->
+				
+        </div>
+        
+            <aside>
+            <!--#include file="aside.html" -->
+            </aside>
+                <section>
+                    <div>
+                            <h1 align="Center">Latest News</h1>
+                            <br>
+                            <h2 align="Center">Designer of the year</h2>
+                            <br>
+                            <div class ="img">
+                            <div class ="img"> <img src="images/designerofyear.png" style="width:230px;height:200px;" alt="Black out" align="center">
+
+                            <div>
+                            <h3 align="Center">Blackout owner and head designer Matt Stuart has been voted Designer of the year</h3>
+                            <br>
+                            <h2 align="Center">Winner of best suit 2015</h2>
+                            <p style="text-align:center;">
+                                <img src="images/idris.jpg" style="width:400px;height:270px" alt="Black out" align="center">
+
+                            </p>
+                            <br>
+                            <h3 align="Center">Our winning design has been been worn to oscars by Idris Elba</h3>
+                            <h1 align="Center">Updates</h1>
+                            <h3 align="Center">Our new winter range has just been launched: Suits-Blazers-Shirts-Jeans-Shoes</h3>
+                        </div>
+                </section>
+       
+        <div class ="footer">
+        <!--#include file="footer.html" -->
+        </div>
+	</body>
+</html>
